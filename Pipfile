@@ -50,7 +50,6 @@ np-utils = "*"
 python_version = "3.11"
 
 [dev-packages]
-ipykernel = "*"
 black = "*"
 radon = "*"
 vulture = "*"
