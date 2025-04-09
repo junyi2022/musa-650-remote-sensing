@@ -4,7 +4,7 @@
 
 This repository contains:
 
-- [What daes a CNN learns?](DL_VisConvFilters.ipynb)
+- [What does a CNN learns?](DL_VisConvFilters.ipynb)
 - [Dropout and batch normalization](dropout_and_batch_normalization.ipynb)
 - [Semantic segmentation and UNets](https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net)
 - [UNet tutorial](https://towardsdatascience.com/unet-line-by-line-explanation-9b191c76baf5)
