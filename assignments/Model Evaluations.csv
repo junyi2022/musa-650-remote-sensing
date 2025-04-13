@@ -1,0 +1,53 @@
+﻿Model 1,,,,
+,Urban,Bare,Water,Vegetation
+Urban,30,0,0,1
+Bare,0,38,0,0
+Water,0,0,6,0
+Vegetation,2,1,0,19
+,,,,
+Metric,Value,,,
+Overall Accuracy,0.9588,,,
+Precision - Urban,0.9677,,,
+Precision - Bare,1,,,
+Precision - Water,1,,,
+Precision - Vegetation,0.8636,,,
+Recall - Urban,0.9375,,,
+Recall - Bare,0.9744,,,
+Recall - Water,1,,,
+Recall - Vegetation,0.95,,,
+,,,,
+Model 2,,,,
+,Urban,Bare,Water,Vegetation
+Urban,27,1,0,3
+Bare,0,38,0,0
+Water,0,0,6,0
+Vegetation,0,0,0,22
+,,,,
+Metric,Value,,,
+Overall Accuracy,0.9588,,,
+Precision - Urban,0.871,,,
+Precision - Bare,1,,,
+Precision - Water,1,,,
+Precision - Vegetation,1,,,
+Recall - Urban,1,,,
+Recall - Bare,0.9744,,,
+Recall - Water,1,,,
+Recall - Vegetation,0.88,,,
+,,,,
+Model 3,,,,
+,Urban,Bare,Water,Vegetation
+Urban,19,9,0,3
+Bare,7,22,0,9
+Water,1,2,0,3
+Vegetation,3,4,0,15
+,,,,
+Metric,Value,,,
+Overall Accuracy,0.5773,,,
+Precision - Urban,0.6129,,,
+Precision - Bare,0.5789,,,
+Precision - Water,0,,,
+Precision - Vegetation,0.6818,,,
+Recall - Urban,0.6333,,,
+Recall - Bare,0.5946,,,
+Recall - Water,0,,,
+Recall - Vegetation,0.5,,,
