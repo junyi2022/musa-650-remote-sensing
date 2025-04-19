@@ -1,0 +1,39 @@
+﻿Metric,Value,,,
+Overall Accuracy,0.5,,,
+Cohen's Kappa,0.325463744,,,
+Urban Precision,0.666666667,,,
+Urban Recall,0.333333333,,,
+Urban F1-Score,0.444444444,,,
+Agriculture Precision,0.5,,,
+Agriculture Recall,0.909090909,,,
+Agriculture F1-Score,0.64516129,,,
+Water Precision,0.625,,,
+Water Recall,0.5,,,
+Water F1-Score,0.555555556,,,
+Forest Precision,0.166666667,,,
+Forest Recall,0.142857143,,,
+Forest F1-Score,0.153846154,,,
+,,,,
+,,,,
+,Pred Urban,Pred Agriculture,Pred Water,Pred Forest
+True Urban,4,5,1,2
+True Agriculture,1,10,0,0
+True Water,0,2,5,3
+True Forest,1,3,2,1
+,,,,
+,,,,
+,Pred Urban,Pred Agriculture,Pred Water,Pred Forest
+True Urban,33.3,41.7,8.3,16.7
+True Agriculture,9.1,90.9,0,0
+True Water,0,20,50,30
+True Forest,14.3,42.9,28.6,14.3
+,,,,
+,,,,
+,precision,recall,f1-score,support
+Urban,0.666666667,0.333333333,0.444444444,12
+Agriculture,0.5,0.909090909,0.64516129,11
+Water,0.625,0.5,0.555555556,10
+Forest,0.166666667,0.142857143,0.153846154,7
+accuracy,0.5,0.5,0.5,0.5
+macro avg,0.489583333,0.471320346,0.449751861,40
+weighted avg,0.522916667,0.5,0.476564654,40
